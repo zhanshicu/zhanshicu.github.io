@@ -1,3 +1,3 @@
 # zhanshicu.github.io
 
-This was modified from [test](https://github.com/elklein96/personal-website-workshop/tree/master)
+This was forked (and then detached) from [elklein96](https://github.com/elklein96/personal-website-workshop/tree/master) under the Apache License. 
